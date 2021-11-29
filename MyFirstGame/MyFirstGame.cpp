@@ -28,7 +28,7 @@ string Diff = "easy";
 void Setup(){
 	srand (time(NULL));
 	GameOver = false;
-	StartMove = WMi;//Фигня какае то
+	StartMove = WMi;
 	Y = 7;
 	HP = 1;
 	Fon = 0;
